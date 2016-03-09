@@ -13,6 +13,5 @@
 @end
 
 @implementation AppDelegate
-
  
 @end

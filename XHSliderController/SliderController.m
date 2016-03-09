@@ -13,7 +13,6 @@
 static const CGFloat RIGHT_MARGIN = 70.f;//右边留出的宽度
 static const CGFloat TOP_MARGIN = 80.f;//上边距
 
-
 @interface SliderController ()
 
 @end

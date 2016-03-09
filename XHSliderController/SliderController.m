@@ -7,8 +7,7 @@
 //
 
 #import "SliderController.h"
-#import "TabBarController.h"
-//#import <objc/runtime.h>
+#import "TabBarController.h" 
 
 static const CGFloat RIGHT_MARGIN = 70.f;//右边留出的宽度
 static const CGFloat TOP_MARGIN = 80.f;//上边距
